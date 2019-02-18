@@ -1,0 +1,5 @@
+commit f2b72ac99d0acce75ea48192bb225258f3ad0de9 (HEAD -> master)
+Author: Yanya Zanevskaya <jstcandid@air-yanya.bsu>
+Date:   Mon Feb 18 16:29:26 2019 +0300
+
+    add status.txt
