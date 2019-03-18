@@ -1,0 +1,102 @@
+.siteName{
+   font-size: 60px;
+   font-family: "Snell Roundhand", cursive;
+   margin-left: 200px;
+   color: maroon;
+}
+.siteName1{
+   font-size: 50px;
+   font-family: "Snell Roundhand", cursive;
+   position: absolute;
+   margin-left: -200px;
+   margin-top: 60px;
+   color: IndianRed;
+}
+header{
+    border: solid 5px maroon;
+    height: 130px;
+    width: auto;
+    background: LightPink;
+}
+.Enter{
+    height: 40px;
+    width: 80px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    margin-left: 400px;
+    background: Seashell;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 20px;
+
+}
+.button1{
+    height: 60px;
+    width: 100px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    background: LightPink;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    position: absolute;
+    color: maroon;
+    margin-left: 180px;
+    margin-top: 260px;
+
+}
+.question1{
+        margin-top: 100px;
+        border: maroon solid 5px;
+        background: Seashell;
+        font-family: "Snell Roundhand", cursive;
+        font-size: 40px;
+        font-color: maroon;
+
+}
+.error1{
+        font-family: "Snell Roundhand", cursive;
+        font-size: 40px;
+        margin-top: 40px;
+        margin-left: 140px;
+        color: maroon;
+}
+.error2{
+    margin: auto;
+        margin-left: -200px;
+        font-family: "Snell Roundhand", cursive;
+        font-size: 20px;
+        color: IndianRed;
+}
+
+main{
+    background: MistyRose;
+    height: 500px;
+    width: auto;
+    border: 5px solid maroon;
+    font-weight: normal;
+    padding: 5px 10px 70px 10px;
+}
+footer{
+    border: solid 5px maroon;
+    background: LightPink;
+    font-style: "Times New Roman", sans-serif;
+    font-size: 16px;
+    color: maroon;
+}
+.information{
+    margin-left: 1190px;
+}
+.Error{
+    display : flex;
+    justify-content: center;
+    width: 450px;
+    height: 250px;
+    border: solid 5px maroon;
+    border-radius: 20%;
+    margin-top: 100px;
+    margin-left: 500px;
+    background: LightPink;
+
+}

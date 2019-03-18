@@ -1,0 +1,123 @@
+.siteName{
+   font-size: 60px;
+   font-family: "Snell Roundhand", cursive;
+   margin-left: 200px;
+   color: maroon;
+}
+.siteName1{
+   font-size: 50px;
+   font-family: "Snell Roundhand", cursive;
+   position: absolute;
+   margin-left: -200px;
+   margin-top: 60px;
+   color: IndianRed;
+}
+header{
+    border: solid 5px maroon;
+    height: 130px;
+    width: auto;
+    background: LightPink;
+}
+.Enter{
+    height: 40px;
+    width: 80px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    margin-left: 400px;
+    background: Seashell;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 20px;
+
+}
+.button1{
+    height: 60px;
+    width: 100px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    background: LightPink;
+    font-size: 40px;
+    position: absolute;
+    color: maroon;
+    margin-left: 20px;
+    margin-top: -20px;
+
+
+}
+
+main{
+    background: MistyRose;
+    width: auto;
+    border: 5px solid maroon;
+    font-weight: normal;
+    padding: 5px 10px 70px 10px;
+}
+footer{
+    border: solid 5px maroon;
+    background: LightPink;
+    font-style: "Times New Roman", sans-serif;
+    font-size: 16px;
+    color: maroon;
+}
+.information{
+    margin-left: 1190px;
+}
+.sex{
+    width: 450px;
+    height: 50px;
+    border: solid 5px maroon;
+    margin-top: 30px;
+    margin-left: 20px;
+    background: LightPink;
+    margin-bottom: 20px;
+    border-radius: 10%;
+    font-size: 20px;
+    font-family: "Snell Roundhand", cursive;
+
+
+}
+.topic{
+    width: 450px;
+    height: 50px;
+    border: solid 5px maroon;
+    margin-top: 30px;
+    margin-left: 20px;
+    background: LightPink;
+    margin-bottom: 20px;
+    border-radius: 10%;
+    font-size: 20px;
+    font-family: "Snell Roundhand", cursive;
+
+
+
+
+}
+.question{
+    width: 700px;
+    height: 200px;
+    border: solid 5px maroon;
+    border-radius: 5%;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 20px;
+    background: LightPink;
+    margin-bottom: 50px;
+    font-family: "Snell Roundhand", cursive;
+
+
+}
+.otherAvatar{
+    border: maroon solid 4px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 400px;
+
+}
+.username{
+font-family: "Snell Roundhand", cursive;
+color: maroon;
+font-size: 30px;
+}

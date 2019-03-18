@@ -1,0 +1,121 @@
+.siteName{
+   font-size: 60px;
+   font-family: "Snell Roundhand", cursive;
+   margin-left: 200px;
+   color: maroon;
+}
+.siteName1{
+   font-size: 50px;
+   font-family: "Snell Roundhand", cursive;
+   position: absolute;
+   margin-left: -200px;
+   margin-top: 60px;
+   color: IndianRed;
+}
+header{
+    border: solid 5px maroon;
+    height: 130px;
+    width: auto;
+    background: LightPink;
+}
+.Enter{
+    height: 40px;
+    width: 80px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    margin-left: 400px;
+    background: Seashell;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 20px;
+
+}
+.button1{
+    height: 60px;
+    width: 100px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    background: Seashell;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    position: absolute;
+    color: maroon;
+    margin-left: 150px;
+    margin-top: 200px;
+
+}
+.WindowName{
+font-size: 50px;
+   font-family: "Snell Roundhand", cursive;
+   position: absolute;
+   margin-left: 600px;
+   color: maroon;
+}
+.question1{
+        margin-top: 100px;
+        border: maroon solid 5px;
+        background: Seashell;
+        font-family: "Snell Roundhand", cursive;
+        font-size: 40px;
+        font-color: maroon;
+
+}
+.enter{
+                width: 450px;
+                height: 50px;
+                border: solid 5px maroon;
+                margin-top: 30px;
+                margin-left: 5px;
+                background: Seashell;
+                margin-bottom: 20px;
+                border-radius: 20%;
+                font-size: 20px;
+                font-family: "Snell Roundhand", cursive;
+}
+
+.password{
+                width: 450px;
+                    height: 50px;
+                    border: solid 5px maroon;
+                    margin-top: 120px;
+                    margin-left: -465px;
+                    background: Seashell;
+                    margin-bottom: 20px;
+                    border-radius: 20%;
+                    font-size: 20px;
+                    font-family: "Snell Roundhand", cursive;
+
+}
+
+main{
+    background: MistyRose;
+    height: 500px;
+    width: auto;
+    border: 5px solid maroon;
+    font-weight: normal;
+    padding: 5px 10px 70px 10px;
+}
+footer{
+    border: solid 5px maroon;
+    background: LightPink;
+    font-style: "Times New Roman", sans-serif;
+    font-size: 16px;
+    color: maroon;
+}
+.information{
+    margin-left: 1190px;
+}
+.Window{
+    display : flex;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    border: solid 5px maroon;
+    border-radius: 20%;
+    margin-top: 80px;
+    margin-left: 500px;
+    background: LightPink;
+
+}
