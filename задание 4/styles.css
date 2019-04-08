@@ -1,0 +1,122 @@
+.siteName{
+   font-size: 60px;
+   font-family: "Snell Roundhand", cursive;
+   margin-left: 200px;
+   color: maroon;
+}
+.siteName1{
+   font-size: 50px;
+   font-family: "Snell Roundhand", cursive;
+   position: absolute;
+   margin-left: -200px;
+   margin-top: 60px;
+   color: IndianRed;
+}
+header{
+    border: solid 5px maroon;
+    height: 130px;
+    width: auto;
+    background: LightPink;
+}
+.Enter{
+    height: 40px;
+    width: 80px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    margin-left: 400px;
+    background: Seashell;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 20px;
+
+}
+.button1{
+    height: 40px;
+    width: 120px;
+    border-radius: 35%;
+    border: maroon solid 4px;
+    background: Seashell;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    position: absolute;
+    margin-left: -120px;
+    margin-top: 30px;
+
+}
+.window{
+    position: fixed;
+    background: LightPink;
+    margin: 100px 50px;
+    width: 380px;
+    height: 270px;
+    border: maroon solid 5px;
+}
+.avatar{
+    border: maroon solid 4px;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 35px;
+    font-family: "Snell Roundhand", cursive;
+    color: maroon;
+}
+.addQuestion{
+    border: maroon solid 4px;
+    width: 200px;
+    height: 50px;
+    margin: 30px 90px;
+    background: LightPink;
+    position: absolute;
+    margin-left: -210px;
+    margin-top: 180px;
+}
+
+.button{
+    font-family: "Snell Roundhand", cursive;
+    font-size: 20px;
+    color: maroon;
+
+}
+.otherAvatar{
+    border: maroon solid 4px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 500px;
+    margin-top: 110px;
+
+}
+.question1{
+    margin-left: 640px;
+    margin-top: -130px;
+    border: maroon solid 5px;
+    background: Seashell;
+    font-family: "Snell Roundhand", cursive;
+    font-size: 18px;
+
+
+
+
+}
+main{
+    background: MistyRose;
+    border: 5px solid maroon;
+    font-weight: normal;
+    padding: 5px 10px 70px 10px;
+}
+footer{
+    border: solid 5px maroon;
+    background: LightPink;
+    font-style: "Times New Roman", sans-serif;
+    fomr-size: 12px;
+    color: maroon;
+}
+.information{
+    margin-left: 1190px;
+}
